@@ -34,3 +34,5 @@
 2025-04-03 11:58:49,926 - db_helper - INFO - Inserting expense: 2024-08-28, 100.0, Food, Lunch
 2025-04-03 11:58:49,942 - db_helper - INFO - Inserting expense: 2024-08-28, 50.0, Transport, Bus fare
 2025-04-03 11:59:07,662 - db_helper - INFO - Fetching expenses for date: 2024-08-28
+2025-04-03 12:10:41,471 - db_helper - INFO - Fetching expenses for date: 2024-08-28
+2025-04-03 12:10:46,706 - db_helper - INFO - Fetching expenses for date: 2024-08-15
