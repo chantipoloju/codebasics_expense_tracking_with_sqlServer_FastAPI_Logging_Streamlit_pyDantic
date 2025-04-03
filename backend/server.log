@@ -1,0 +1,36 @@
+2025-04-03 11:47:40,601 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-04-03 11:47:40,637 - db_helper - INFO - Inserting expense: 2024-08-28, 100, Food, Lunch
+2025-04-03 11:47:40,649 - db_helper - INFO - Fetching expenses for date: 2024-08-28
+2025-04-03 11:47:40,656 - db_helper - INFO - Deleting expenses for date: 2024-08-28
+2025-04-03 11:47:40,667 - db_helper - INFO - Fetching expenses for date: 2024-08-28
+2025-04-03 11:47:40,673 - db_helper - INFO - Fetching expense summary from 2024-08-01 to 2024-08-05
+2025-04-03 11:53:39,939 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-04-03 11:53:39,978 - db_helper - INFO - Inserting expense: 2024-08-28, 100, Food, Lunch
+2025-04-03 11:53:39,988 - db_helper - INFO - Fetching expenses for date: 2024-08-28
+2025-04-03 11:53:39,996 - db_helper - INFO - Deleting expenses for date: 2024-08-28
+2025-04-03 11:53:40,006 - db_helper - INFO - Fetching expenses for date: 2024-08-28
+2025-04-03 11:53:40,013 - db_helper - INFO - Fetching expense summary from 2024-08-01 to 2024-08-05
+2025-04-03 11:54:29,221 - db_helper - INFO - 
+
+2025-04-03 11:54:29,221 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-04-03 11:54:29,256 - db_helper - INFO - Inserting expense: 2024-08-28, 100, Food, Lunch
+2025-04-03 11:54:29,268 - db_helper - INFO - Fetching expenses for date: 2024-08-28
+2025-04-03 11:54:29,276 - db_helper - INFO - Deleting expenses for date: 2024-08-28
+2025-04-03 11:54:29,286 - db_helper - INFO - Fetching expenses for date: 2024-08-28
+2025-04-03 11:54:29,293 - db_helper - INFO - Fetching expense summary from 2024-08-01 to 2024-08-05
+2025-04-03 11:56:06,997 - db_helper - INFO - 
+
+2025-04-03 11:56:06,998 - db_helper - INFO - Fetching expenses for date: 2024-08-01
+2025-04-03 11:56:07,032 - db_helper - INFO - Inserting expense: 2024-08-28, 100, Food, Lunch
+2025-04-03 11:56:07,044 - db_helper - INFO - Fetching expenses for date: 2024-08-28
+2025-04-03 11:56:07,051 - db_helper - INFO - Deleting expenses for date: 2024-08-28
+2025-04-03 11:56:07,061 - db_helper - INFO - Fetching expenses for date: 2024-08-28
+2025-04-03 11:56:07,069 - db_helper - INFO - Fetching expense summary from 2024-08-01 to 2024-08-05
+2025-04-03 11:56:18,793 - db_helper - INFO - 
+
+2025-04-03 11:56:35,459 - db_helper - INFO - Fetching expenses for date: 2024-08-28
+2025-04-03 11:58:44,814 - db_helper - INFO - Fetching expenses for date: 2024-08-28
+2025-04-03 11:58:49,917 - db_helper - INFO - Deleting expenses for date: 2024-08-28
+2025-04-03 11:58:49,926 - db_helper - INFO - Inserting expense: 2024-08-28, 100.0, Food, Lunch
+2025-04-03 11:58:49,942 - db_helper - INFO - Inserting expense: 2024-08-28, 50.0, Transport, Bus fare
+2025-04-03 11:59:07,662 - db_helper - INFO - Fetching expenses for date: 2024-08-28
