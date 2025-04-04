@@ -1,5 +1,9 @@
 MIT License
 
+Copyright (c) 2025 Mehul Ligade
+
+MIT License
+
 Copyright (c) 2025 mehulcode12
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -20,8 +24,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Disclaimer: This project was inspired by the Codebasics DSAI Bootcamp. 
-While the core concepts and initial implementation were derived from the bootcamp, 
-significant extensions and customizations have been made for enhanced functionality 
-and additional features. As a result, this project is a blend of original work 
-and contributions based on the bootcamp material.
+Disclaimer: This project was inspired by the Codebasics DSAI Bootcamp. While the core concepts and initial implementation were derived from the bootcamp, significant extensions and customizations have been made for enhanced functionality and additional features. As a result, this project is a blend of original work and contributions based on the bootcamp material.
+
