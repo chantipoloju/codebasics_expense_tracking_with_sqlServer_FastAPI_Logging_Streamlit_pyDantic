@@ -106,12 +106,12 @@ Expense_Tracking/
 To better understand how the application works, here are some screenshots and recordings:
 
 - **Screenshots**: 
-1. ![Adding/Updating DATA](https://github.com/mehulcode12/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/blob/main/Screenshots/Screenshot%202025-04-04%20211357.png)
-2. ![SQL database](https://github.com/mehulcode12/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/blob/main/Screenshots/Screenshot%202025-04-04%20211418.png)
-3. ![Server log file](https://github.com/mehulcode12/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/blob/main/Screenshots/Screenshot%202025-04-04%20211452.png)
-4. ![Analytics 1](https://github.com/mehulcode12/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/blob/main/Screenshots/Screenshot%202025-04-04%20211331.png)
-5. ![Analytics 2](https://github.com/mehulcode12/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/blob/main/Screenshots/Screenshot%202025-04-04%20211318.png)
-6. ![Analytics 3](https://github.com/mehulcode12/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/blob/main/Screenshots/Screenshot%202025-04-04%20211306.png)
+1. ##Adding/Updating DATA ![Adding/Updating DATA](https://github.com/mehulcode12/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/blob/main/Screenshots/Screenshot%202025-04-04%20211357.png)
+2. ##SQL database ![SQL database](https://github.com/mehulcode12/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/blob/main/Screenshots/Screenshot%202025-04-04%20211418.png)
+3. ##Server log file ![Server log file](https://github.com/mehulcode12/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/blob/main/Screenshots/Screenshot%202025-04-04%20211452.png)
+4. ##Analytics 1 ![Analytics 1](https://github.com/mehulcode12/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/blob/main/Screenshots/Screenshot%202025-04-04%20211331.png)
+5. ##Analytics 2 ![Analytics 2](https://github.com/mehulcode12/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/blob/main/Screenshots/Screenshot%202025-04-04%20211318.png)
+6. ##Analytics 3 ![Analytics 3](https://github.com/mehulcode12/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/blob/main/Screenshots/Screenshot%202025-04-04%20211306.png)
 
    
 - **Screen Recording**:
